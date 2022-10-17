@@ -44,8 +44,8 @@
 
 @font-face {
   font-family: 'Lufga';
-  src: url('Lufga_Font/Lufga-BoldItalic.woff2') format('woff2'),
-      url('Lufga_Font/Lufga-BoldItalic.woff') format('woff');
+  src: url('Lufga_Font/Lufga-ExtraBoldItalic.woff2') format('woff2'),
+      url('Lufga_Font/Lufga-ExtraBoldItalic.woff') format('woff');
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -116,8 +116,8 @@
 
 @font-face {
   font-family: 'Lufga';
-  src: url('Lufga_Font/Lufga-LightItalic.woff2') format('woff2'),
-      url('Lufga_Font/Lufga-LightItalic.woff') format('woff');
+  src: url('Lufga_Font/Lufga-MediumItalic.woff2') format('woff2'),
+      url('Lufga_Font/Lufga-MediumItalic.woff') format('woff');
   font-weight: 500;
   font-style: italic;
   font-display: swap;
