@@ -2,7 +2,7 @@
     font-family: "Monument";
     font-style: normal;
     font-weight: normal;
-    src: local("fonts/MonumentExtendedRegular.woff"), url(fonts/MonumentExtendedRegular.woff) format("woff");
+    src: local("fonts/Monument_Font/MonumentExtendedRegular.woff"), url(fonts/Monument_Font/MonumentExtendedRegular.woff) format("woff");
   }
   
   * {
