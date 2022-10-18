@@ -2,7 +2,7 @@ const projects = [
     {
         name: "RediSafe",
         description: "Modern app for monitoring your health data offline and prevent contracting COVID.",
-        image: "https://i.imgur.com/RR2rEan.png",
+        image: "https://imgur.com/a/DhHbpgT",
         link: ""
     },
     {
