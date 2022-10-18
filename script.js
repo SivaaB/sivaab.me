@@ -1,75 +1,75 @@
 const projects = [
     {
-        name: "RediSafe",
-        description: "Modern app for monitoring your health data offline and prevent contracting COVID.",
-        image: "https://imgur.com/xEq2HJ8" , 
+        name: "YTBC",
+        description: "",
+        image: "https://i.imgur.com/9x5I6Z6.png" ,
         link: ""
     },
     {
-        name: "Sahay",
-        description: "Sahay allows hospitals to work together and share resources during shortages.",
+        name: "Disv+",
+        description: "",
         image: "https://i.imgur.com/9x5I6Z6.png",
         link: ""
     },
     {
-        name: "Marketune",
-        description: "Improves customer call-retention by replacing annoying on-hold music with effective tunes/ads made by verified content creators.",
+        name: "Partners for Patients",
+        description: "",
         image: "https://i.imgur.com/kPCjLjK.png",
         link: ""
     },
     {
-        name: "SurveyDonkey",
-        description: "A decentralized platform that increases your survey reach and helps diversify responses.",
+        name: "EM",
+        description: "",
         image: "https://i.imgur.com/YWNf6cz.png",
         link: ""
     },
     {
-        name: "MerryDining",
-        description: "Make reservations at restaurants/bars matching your dietary restrictions, and connect with foodies who have similar taste!.",
+        name: "MERGE",
+        description: "",
         image: "https://i.imgur.com/yfXq4aY.png",
         link: ""
     },
     {
-        name: "Harry Potter Redesign",
-        description: "Complete revamp of novel book covers, page layouts, new posters, website UI/UX and a trailer video!",
+        name: "Erevna",
+        description: "",
         image: "",
         link: ""
     },
     {
-        name: "Hlo+",
-        description: "Smart hyperlocalisation and crowd control system using 5G. UI/UX and workflow.",
+        name: "PFP",
+        description: "",
         image:"https://i.imgur.com/RR2rEan.png",
         link: ""
 
     },
     {
-        name: "NFTZ",
-        description: "Demystifying NFT creation and trading for the layman.",
+        name: "AlphaStart",
+        description: "",
         image: "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/505/759/datas/medium.png",
         link: ""
     },
     {
-        name: "Potus",
-        description: "Concept Kanye West Album; Complete branding and app UI/UX Design",
+        name: "NC+",
+        description: "",
         image: "https://i.imgur.com/gWxQiQB.png",
         link: ""
     },
     
     {
-        name: "SayLore",
-        description: "Concept fashion brand based on Saylor Twift. Branding, shop 3D models and app UI/UX . ",
+        name: "TAM",
+        description: "",
         image: "https://i.imgur.com/9x5I6Z6.png",
         link: ""
     },
     {
-        name: "Cryptocracy",
-        description: "International 48-hour Cryptic Hunt. Complete branding and website/platform UI", 
+        name: "TxLR",
+        description: "", 
         image: "https://i.imgur.com/Rw19KGO.png",
         link: ""
     },
     {
-        name: "CORE",
-        description: "Website for CORE, the computers society of Delhi Public School, Dwarka",
+        name: "Tesseract",
+        description: "",
         image: "https://i.imgur.com/Ay6yWtA.png",
         link: ""
     }
