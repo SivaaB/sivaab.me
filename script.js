@@ -6,7 +6,7 @@ const projects = [
         link: ""
     },
     {
-        name: "Disv+",
+        name: "Disolv+",
         description: "",
         image: "https://i.imgur.com/9x5I6Z6.png",
         link: ""
