@@ -3,75 +3,75 @@ const projects = [
         name: "RediSafe",
         description: "Modern app for monitoring your health data offline and prevent contracting COVID.",
         image: "https://i.imgur.com/RR2rEan.png",
-        link: "https://www.behance.net/gallery/119608771/Redisafe"
+        link: ""
     },
     {
         name: "Sahay",
         description: "Sahay allows hospitals to work together and share resources during shortages.",
         image: "https://i.imgur.com/9x5I6Z6.png",
-        link: "https://www.behance.net/gallery/118691091/Sahay-Consolidating-the-Healthcare-system?mv=email"
+        link: ""
     },
     {
         name: "Marketune",
         description: "Improves customer call-retention by replacing annoying on-hold music with effective tunes/ads made by verified content creators.",
         image: "https://i.imgur.com/kPCjLjK.png",
-        link: "https://www.behance.net/gallery/127690931/Marketune-Pitch-Deck-UIUX"
+        link: ""
     },
     {
         name: "SurveyDonkey",
         description: "A decentralized platform that increases your survey reach and helps diversify responses.",
         image: "https://i.imgur.com/YWNf6cz.png",
-        link: "https://devpost.com/software/surveydonkey"
+        link: ""
     },
     {
         name: "MerryDining",
         description: "Make reservations at restaurants/bars matching your dietary restrictions, and connect with foodies who have similar taste!.",
         image: "https://i.imgur.com/yfXq4aY.png",
-        link: "https://devpost.com/software/merrydining"
+        link: ""
     },
     {
         name: "Harry Potter Redesign",
         description: "Complete revamp of novel book covers, page layouts, new posters, website UI/UX and a trailer video!",
         image: "",
-        link: "https://www.behance.net/gallery/124344065/Harry-Potter-Series-Design-Revamp"
+        link: ""
     },
     {
         name: "Hlo+",
         description: "Smart hyperlocalisation and crowd control system using 5G. UI/UX and workflow.",
         image:"https://i.imgur.com/RR2rEan.png",
-        link: "https://www.behance.net/gallery/119577627/Hlo-UIUX"
+        link: ""
 
     },
     {
         name: "NFTZ",
         description: "Demystifying NFT creation and trading for the layman.",
         image: "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/505/759/datas/medium.png",
-        link: "https://nfteasy.us/"
+        link: ""
     },
     {
         name: "Potus",
         description: "Concept Kanye West Album; Complete branding and app UI/UX Design",
         image: "https://i.imgur.com/gWxQiQB.png",
-        link: "https://www.behance.net/gallery/108134777/POTUS-Concept-Kanye-West-Album-and-UIUX"
+        link: ""
     },
     
     {
         name: "SayLore",
         description: "Concept fashion brand based on Saylor Twift. Branding, shop 3D models and app UI/UX . ",
         image: "https://i.imgur.com/9x5I6Z6.png",
-        link: "https://www.behance.net/gallery/90181055/SayLor-Beauty-Products"
+        link: ""
     },
     {
         name: "Cryptocracy",
         description: "International 48-hour Cryptic Hunt. Complete branding and website/platform UI", 
         image: "https://i.imgur.com/Rw19KGO.png",
-        link: "https://cryptichunt.com"
+        link: ""
     },
     {
         name: "CORE",
         description: "Website for CORE, the computers society of Delhi Public School, Dwarka",
         image: "https://i.imgur.com/Ay6yWtA.png",
-        link: "https://hailcore.co"
+        link: ""
     }
 ];
 
