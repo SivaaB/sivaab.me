@@ -134,6 +134,8 @@
   
   .header {
     /* border: 0.4px solid white; */
+    position: fixed;
+    top: 0px;
   }
   img {
     pointer-events: none;
