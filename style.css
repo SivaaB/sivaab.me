@@ -55,12 +55,14 @@
   }
   .nav {
     height: auto;
-    position: fixed;
-    top: 0%;
+    position: relative;
+    top: 3%;
     margin-left: 5%;
     width: 90%;
   }
   .nav ul {
+    position: fixed;
+    top: 0%;
     margin-bottom: 8vh;
     width: 90%;
     display: flex;
