@@ -62,7 +62,6 @@
   }
   .nav ul {
     position: fixed;
-    top: 0%;
     margin-bottom: 8vh;
     width: 90%;
     display: flex;
