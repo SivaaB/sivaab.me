@@ -55,8 +55,8 @@
   }
   .nav {
     height: auto;
-    position: relative;
-    top: 3%;
+    position: fixed;
+    top: 0%;
     margin-left: 5%;
     width: 90%;
   }
@@ -519,8 +519,6 @@
     }
     .nav {
       display: none;
-      position: fixed;
-      top: 0px;
     }
     .navmob {
       position: absolute;
