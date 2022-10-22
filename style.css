@@ -61,7 +61,6 @@
     width: 90%;
   }
   .nav ul {
-    position: fixed;
     margin-bottom: 8vh;
     width: 90%;
     display: flex;
