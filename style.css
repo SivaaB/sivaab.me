@@ -519,6 +519,8 @@
     }
     .nav {
       display: none;
+      position: fixed;
+      top: 0px;
     }
     .navmob {
       position: absolute;
