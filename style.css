@@ -620,7 +620,7 @@
     .container .card {
       margin-top: 20px;
       width: 100%;
-      background-size: cover;
+      background-size: contain;
       background-position: center;
     }
   
