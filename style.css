@@ -317,7 +317,7 @@
     margin-top: 2vh;
     width: 26vh;
     height: 26vh;
-    background-size: cover;
+    background-size: contain;
     border-radius: 18px;
     display: flex;
     align-items: flex-end;
@@ -620,7 +620,7 @@
     .container .card {
       margin-top: 20px;
       width: 100%;
-      background-size: contain;
+      background-size: cover; 
       background-position: center;
     }
   
