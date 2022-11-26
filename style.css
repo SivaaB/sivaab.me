@@ -366,7 +366,7 @@
   }
   
   #projects {
-    display: flex;
+    display: none;
     height: auto;
 
   }
