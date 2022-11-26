@@ -312,12 +312,12 @@
   .container a {
     text-decoration: none;
   }
-  .container .card {
+  .container .card {x
     cursor: pointer;
     margin-top: 2vh;
     width: 26vh;
     height: 26vh;
-    background-size: auto;
+    background-size: 200px;
     border-radius: 18px;
     display: flex;
     align-items: flex-end;
