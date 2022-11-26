@@ -317,7 +317,7 @@
     margin-top: 2vh;
     width: 26vh;
     height: 26vh;
-    background-size: cover;
+    background-size: auto;
     border-radius: 18px;
     display: flex;
     align-items: flex-end;
