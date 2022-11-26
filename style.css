@@ -51,7 +51,7 @@
     border-bottom: none;
   }
   .navmob {
-    display: flex;
+    display: none;
   }
   .nav {
     height: auto;
