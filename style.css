@@ -398,7 +398,7 @@
     width: 90%;
     height: 2px;
     position: absolute;
-    background-color: #000;
+    background-color: rgb(255, 0, 0);
   }
   
   .line1 {
