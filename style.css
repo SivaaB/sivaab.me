@@ -324,12 +324,12 @@
   }
   
   .container .card h1 {
-    text-transform: uppercase;
+    text-transform: lowercase;
     padding-left: 15px;
     font-family: "Monument";
     font-weight: 500;
     font-size: 2.3vh;
-    color: white;
+    color: rgb(255, 0, 0);
   }
   .container .card p {
     font-size: 1.8vh;
