@@ -367,7 +367,7 @@
   
   #projects {
     display: none;
-    height: auto;
+    border: 1px solid rgb(252, 0, 0);
 
   }
   .text:hover {
