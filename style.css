@@ -371,7 +371,7 @@
 
   }
   .text:hover {
-    background: rgb(100, 0, 0);
+    background: rgb(0, 0, 0);
     background: linear-gradient(
       0deg,
       rgba(0, 0, 0, 0.6) 0%,
