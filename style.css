@@ -394,7 +394,7 @@
   }
   
   .menu-line {
-    color: white;
+    color: rgb(255, 0, 0);
     width: 90%;
     height: 2px;
     position: absolute;
