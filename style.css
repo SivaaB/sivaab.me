@@ -315,8 +315,8 @@
   .container .card {x
     cursor: pointer;
     margin-top: 2vh;
-    width: 97px;
-    height: 97px;
+    width: 100vh;
+    height: 100vh;
     background-size: 200px;
     border-radius: 18px;
     display: flex;
